@@ -14,6 +14,7 @@ https://todoist.com/ru   <br>
 
 https://jseditor.io/ <br>
 https://jsoneditoronline.org/#left=local.buqehi&right=local.zuyido <br>
+Гугл скрипты - https://www.google.com/script/start/ <br>
 
 https://core.telegram.org/bots/api#answercallbackquery <br>
 https://docs.madelineproto.xyz/docs/FILES.html#documentattributevideo-to-send-a-video <br>
