@@ -18,3 +18,12 @@ https://www.epochconverter.com/ <br>
 https://i-leon.ru/tools/time <br>
 https://time.is/ru/Unix_time_converter <br>
 
+# Комуналка:
+
+https://ok.dtek-dnem.com.ua/
+https://www.my.yasno.com.ua/
+https://ok.104.ua/ua/
+
+https://www.ipay.ua/ua/bills/rgc_dnipropetrovskgas_at
+https://www.ipay.ua/ua/bills/dp_gaszbut
+https://my.gas.ua/
