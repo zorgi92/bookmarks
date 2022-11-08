@@ -10,6 +10,7 @@ https://advego.com/text/ <br>
 https://www.shazam.com/ru/charts/top-200/ukraine <br>
 https://www.google.com.ua/maps/@50.4851493,30.4721233,14z?hl=ru  <br>
 http://tplinkwifi.net/   <br>
+https://todoist.com/ru   <br>
 
 https://jseditor.io/ <br>
 https://jsoneditoronline.org/#left=local.buqehi&right=local.zuyido <br>
