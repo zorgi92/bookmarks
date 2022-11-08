@@ -50,6 +50,6 @@ https://github.com/martinvigo/email2phonenumber <br>
 https://2ip.ua/ua/services/information-service/site-location <br>
 
 
-
+Северный номера - https://docs.google.com/spreadsheets/d/1mfGKg9xZOLlqP22p90ynROFGj3lf0LmFbTIXUR-JFLU/edit#gid=0 <br>
 
 
