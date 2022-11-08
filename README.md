@@ -1,6 +1,6 @@
 # Разное:
 https://www.youtube.com/ <br>
-https://rutracker.org/forum/login.php <br>
+https://rutracker.org/forum/login.php (http://rutracker-net.ru/ / https://rutracker.net/forum/index.php / https://rutracker-org.appspot.com/forum/index.php)<br>
 https://translate.google.com/?hl=ru&ie=UTF-8&sl=ru&tl=ru <br>
 https://mail.google.com/mail/u/0/?tab=om#inbox <br>
 https://www.seedr.cc/ <br>
