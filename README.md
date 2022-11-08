@@ -20,10 +20,10 @@ https://time.is/ru/Unix_time_converter <br>
 
 # Комуналка:
 
-https://ok.dtek-dnem.com.ua/
-https://www.my.yasno.com.ua/
-https://ok.104.ua/ua/
+https://ok.dtek-dnem.com.ua/ <br>
+https://www.my.yasno.com.ua/ <br>
+https://ok.104.ua/ua/ <br>
 
-https://www.ipay.ua/ua/bills/rgc_dnipropetrovskgas_at
-https://www.ipay.ua/ua/bills/dp_gaszbut
-https://my.gas.ua/
+https://www.ipay.ua/ua/bills/rgc_dnipropetrovskgas_at <br>
+https://www.ipay.ua/ua/bills/dp_gaszbut <br>
+https://my.gas.ua/ <br>
