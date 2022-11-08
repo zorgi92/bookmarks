@@ -5,6 +5,11 @@ https://translate.google.com/?hl=ru&ie=UTF-8&sl=ru&tl=ru <br>
 https://mail.google.com/mail/u/0/?tab=om#inbox <br>
 https://www.seedr.cc/ <br>
 https://texteditor.co/ <br>
+https://www.speedtest.net/ <br>
+https://advego.com/text/ <br>
+https://www.shazam.com/ru/charts/top-200/ukraine <br>
+https://www.google.com.ua/maps/@50.4851493,30.4721233,14z?hl=ru  <br>
+http://tplinkwifi.net/   <br>
 
 https://jseditor.io/ <br>
 https://jsoneditoronline.org/#left=local.buqehi&right=local.zuyido <br>
